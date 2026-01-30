@@ -24,5 +24,4 @@ This project demonstrates clean, responsive UI design using Bootstrap 5. Compone
 ## Time Taken
 Approx 7–8 hours
 
-## Live Deployment
-(Add your deployed URL here)
+
